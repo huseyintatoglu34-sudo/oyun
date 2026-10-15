@@ -1,0 +1,6 @@
+{
+  "name": "Üçlü Oyun Portalı: Neon Dash, Mini FIFA & Tower Royale",
+  "description": "Klasik web portalı yerleşiminde 3 efsane oyun: Geometri Dash tarzı Neon Dash, FIFA tarzı serbest vuruş şampiyonası ve Clash Royale tarzı Tower Royale arena savaşı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
